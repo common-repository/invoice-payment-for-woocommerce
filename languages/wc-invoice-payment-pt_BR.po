@@ -1,0 +1,276 @@
+# Invoice Payment for WooCommerce tradução pt_BR
+msgid "Invoice payment generation and management for WooCommerce."
+msgstr "Gerenciador de faturas para pagamento para WooCommerce"
+
+msgid "List invoices"
+msgstr "Listar faturas"
+
+msgid "Invoices"
+msgstr "Faturas"
+
+msgid "Invoice"
+msgstr "Fatura"
+
+msgid "Edit invoice"
+msgstr "Editar faturas"
+
+msgid "Invoice successfully saved"
+msgstr "Fatura salva com sucesso"
+
+msgid "Error on invoice generation"
+msgstr "Erro na geração da fatura"
+
+msgid "Invoices successfully deleted"
+msgstr "Faturas excluídas com sucesso"
+
+msgid "Error on invoice deletion"
+msgstr "Erro ao excluir a fatura"
+
+msgid "Invoice details"
+msgstr "Detalhes da fatura"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Default payment method"
+msgstr "Método de pagamento padrão"
+
+msgid "Currency"
+msgstr "Moeda"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Amount"
+msgstr "Valor"
+
+msgid "Add line"
+msgstr "Adicionar linha"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Invoice actions"
+msgstr "Ações de fatura"
+
+msgid "Select an action..."
+msgstr "Selecione uma ação..."
+
+msgid "Send invoice to customer"
+msgstr "Enviar fatura para o cliente"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Add invoice"
+msgstr "Adicionar fatura"
+
+msgid "Add subscription"
+msgstr "Adicionar assinatura"
+
+msgid "Payment status"
+msgstr "Status de pagamento"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "depends on the last version of WooCommerce to work!"
+msgstr "necessita da última versão do WooCommerce para funcionar!"
+
+msgid "Active WooCommerce"
+msgstr "Ativar WooCommerce"
+
+msgid "Install WooCommerce"
+msgstr "Instalar WooCommerce"
+
+msgid "Invoice payment link"
+msgstr "Link de pagamento da fatura"
+
+msgid "Payment link"
+msgstr "Link de pagamento"
+
+msgid "Due date"
+msgstr "Data de vencimento"
+
+msgid "Payment details"
+msgstr "Detalhes do pagamento"
+
+msgid "Payment method"
+msgstr "Método de pagamento"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Bill To"
+msgstr "Destinatário"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Download invoice"
+msgstr "Baixar fatura"
+
+msgid "Unable to generate the PDF. Please, contact support."
+msgstr "Não foi possível gerar o PDF. Por favor, entre em contato com o suporte."
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Default PDF template for invoices"
+msgstr "Template PDF padrão para faturas"
+
+msgid "Invoice PDF template"
+msgstr "Template do PDF da fatura"
+
+msgid "Extra data"
+msgstr "Dados extra"
+
+msgid "Footer notes"
+msgstr "Notas do rodapé"
+
+msgid "Details in HTML"
+msgstr "Detalhes em HTML"
+
+msgid "Default template"
+msgstr "Template padrão"
+
+msgid "Logo URL"
+msgstr "URL da logo"
+
+msgid "Invoice By Link Nacional"
+msgstr "Fatura por Link Nacional"
+
+msgid "Invoice settings"
+msgstr "Configurações de fatura"
+
+msgid "Default footer"
+msgstr "Rodapé padrão"
+
+msgid "Sender details"
+msgstr "Dados do remetente"
+
+msgid "Text before payment link"
+msgstr "Texto antes do link de pagamento"
+
+msgid "Multiple payment option"
+msgstr "Opção de pagamento múltiplo"
+
+msgid "Share payment link"
+msgstr "Compartilhar link de pagamento"
+
+msgid "Share with"
+msgstr "Compartilhe com"
+
+msgid "Or copy link"
+msgstr "Ou copie o link"
+
+msgid "Start date"
+msgstr "Data de criação"
+
+msgid "Subscription"
+msgstr "Assinatura"
+
+msgid "This is a subscription product."
+msgstr "Este é um produto com assinatura"
+
+msgid "Subscription Interval"
+msgstr "Intervalo da assinatura"
+
+msgid "Days"
+msgstr "Dias"
+
+msgid "Weeks"
+msgstr "Semanas"
+
+msgid "Months"
+msgstr "Meses"
+
+msgid "Years"
+msgstr "Anos"
+
+msgid "Subscriptions"
+msgstr "Assinaturas"
+
+msgid "List Subscriptions"
+msgstr "Listar assinaturas"
+
+msgid "Activate invoices"
+msgstr "Ativar faturas"
+
+msgid "Create an invoice whenever a product is purchased"
+msgstr "Criar uma fatura sempre que um produto for comprado"
+
+msgid "Create invoices for products"
+msgstr "Criar faturas para produtos"
+
+msgid "Edit subscription"
+msgstr "Editar assinatura"
+
+msgid "Subscription successfully saved"
+msgstr "Assinatura salva com sucesso"
+
+msgid "Subscription actions"
+msgstr "Ações da assinatura"
+
+msgid "Subscription details"
+msgstr "Detalhes da assinatura"
+
+msgid "Cancel subscription"
+msgstr "Cancelar assinatura"
+
+msgid "Enable/Disable email verification."
+msgstr "Habilitar/Desabilitar verificação de email."
+
+msgid "Your download will begin shortly. Please wait a moment."
+msgstr "O seu download será iniciado em breve. Por favor, aguarde um momento."
+
+msgid "Select the checkbox to enable email verification."
+msgstr "Marque a caixa de seleção para ativar a verificação de e-mail."
+
+msgid "Subscription limit"
+msgstr "Limite da assinatura"
+
+msgid "Set a limit for the number of invoices that will be generated for the subscription, by default,  there is no limit."
+msgstr "Defina um limite para a quantidade de faturas que serão geradas para a assinatura, por padrão não há limite."
+
+msgid "Generated invoices"
+msgstr "Faturas geradas"
+
+msgid "Subscription settings"
+msgstr "Configurações de assinatura"
+
+msgid "Set the lead time for invoice generation relative to the due date."
+msgstr "Configure a antecedência para a geração da fatura em relação à data de vencimento."
+
+msgid "Invoice issuance lead time"
+msgstr "Antecedência para emissão de fatura"
+
+msgid "Maximum recommended width of 460 pixels"
+msgstr "Largura máxima recomendada de 460 pixels"
+
+msgid "Upload image"
+msgstr "Enviar imagem"
+
+msgid "Downloading..."
+msgstr "Baixando..."
+
+msgid "Create an invoice whenever a product is purchased."
+msgstr "Crie uma fatura sempre que um produto for adquirido."
+
+msgid "Limit number of invoices"
+msgstr "Limitar quantidade de faturas"
+
+msgid "By enabling this setting, every purchase order in WooCommerce will have an invoice available in the invoice lists. This feature makes it easier to send a payment link to the user who made a product purchase in the WooCommerce store."
+msgstr "Ao habilitar essa configuração todo pedido de compra do WooCommerce terá uma fatura disponível nas listas de faturas, esse recurso facilita o envio de um link de pagamento para o usuário que fez uma compra de produto na loja do WooCommerce."
+
+msgid "Enable email verification on the invoice."
+msgstr "Ativar a verificação de e-mail na fatura."
+
+msgid "This feature will enable a text box for the user to enter their email address before displaying the invoice."
+msgstr "Esta funcionalidade irá ativar uma caixa de entrada de texto para o usuário informar o endereço de e-mail antes de exibir a fatura."
+
+msgid "Are you sure you want to delete the invoice?"
+msgstr "Tem certeza que deseja deletar a fatura?"
+
+msgid "Are you sure you want to cancel the invoice?"
+msgstr "Tem certeza que deseja cancelar a fatura?"

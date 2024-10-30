@@ -1,0 +1,270 @@
+# Invoice Payment for WooCommerce en_US translation
+msgid "Invoice payment generation and management for WooCommerce."
+msgstr ""
+
+msgid "List invoices"
+msgstr ""
+
+msgid "Invoices"
+msgstr ""
+
+msgid "Invoice"
+msgstr ""
+
+msgid "Edit invoice"
+msgstr ""
+
+msgid "Invoice successfully saved"
+msgstr ""
+
+msgid "Error on invoice generation"
+msgstr ""
+
+msgid "Invoices successfully deleted"
+msgstr ""
+
+msgid "Error on invoice deletion"
+msgstr ""
+
+msgid "Invoice details"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Default payment method"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Add line"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Invoice actions"
+msgstr ""
+
+msgid "Select an action..."
+msgstr ""
+
+msgid "Send invoice to customer"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Add invoice"
+msgstr ""
+
+msgid "Payment status"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "depends on the last version of WooCommerce to work!"
+msgstr ""
+
+msgid "Active WooCommerce"
+msgstr ""
+
+msgid "Install WooCommerce"
+msgstr ""
+
+msgid "Invoice payment link"
+msgstr ""
+
+msgid "Payment link"
+msgstr ""
+
+msgid "Due date"
+msgstr ""
+
+msgid "Payment details"
+msgstr ""
+
+msgid "Payment method"
+msgstr "Date"
+
+msgid "Description"
+msgstr ""
+
+msgid "Bill To"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Download invoice"
+msgstr ""
+
+msgid "Unable to generate the PDF. Please, contact support."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Default PDF template for invoices"
+msgstr ""
+
+msgid "Invoice PDF template"
+msgstr ""
+
+msgid "Extra data"
+msgstr ""
+
+msgid "Footer notes"
+msgstr ""
+
+msgid "Details in HTML"
+msgstr ""
+
+msgid "Default template"
+msgstr ""
+
+msgid "Logo URL"
+msgstr ""
+
+msgid "Invoice By Link Nacional"
+msgstr ""
+
+msgid "Invoice settings"
+msgstr ""
+
+msgid "Default footer"
+msgstr ""
+
+msgid "Sender details"
+msgstr ""
+
+msgid "Text before payment link"
+msgstr ""
+
+msgid "Multiple payment option"
+msgstr ""
+
+msgid "Share payment link"
+msgstr ""
+
+msgid "Share with"
+msgstr ""
+
+msgid "Or copy link"
+msgstr ""
+
+msgid "Start date"
+msgstr ""
+
+msgid "Subscription"
+msgstr ""
+
+msgid "This is a subscription product."
+msgstr ""
+
+msgid "Subscription Interval"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "Months"
+msgstr ""
+
+msgid "Years"
+msgstr ""
+
+msgid "Subscriptions"
+msgstr ""
+
+msgid "List Subscriptions"
+msgstr ""
+
+msgid "Activate invoices"
+msgstr ""
+
+msgid "Create an invoice whenever a product is purchased"
+msgstr ""
+
+msgid "Create invoices for products"
+msgstr ""
+
+msgid "Edit subscription"
+msgstr ""
+
+msgid "Invoice successfully saved"
+msgstr ""
+
+msgid "Subscription actions"
+msgstr ""
+
+msgid "Subscription details"
+msgstr ""
+
+msgid "Cancel subscription"
+msgstr ""
+
+msgid "Enable/Disable email verification."
+msgstr ""
+
+msgid "Your download will begin shortly. Please wait a moment."
+msgstr ""
+
+msgid "Select the checkbox to enable email verification."
+msgstr ""
+
+msgid "Add subscription"
+msgstr ""
+
+msgid "Subscription limit"
+msgstr ""
+
+msgid "Set a limit for the number of invoices that will be generated for the subscription, by default,  there is no limit."
+msgstr "
+
+msgid "Generated invoices"
+msgstr ""
+
+msgid "Subscription settings"
+msgstr ""
+
+msgid "Set the lead time for invoice generation relative to the due date."
+msgstr ""
+
+msgid "Invoice issuance lead time"
+msgstr ""
+
+msgid "Maximum recommended width of 460 pixels"
+msgstr ""
+
+msgid "Upload image"
+msgstr ""
+
+msgid "Downloading..."
+msgstr ""
+
+msgid "Create an invoice whenever a product is purchased."
+msgstr ""
+
+msgid "Limit number of invoices"
+msgstr ""
+
+msgid "By enabling this setting, every purchase order in WooCommerce will have an invoice available in the invoice lists. This feature makes it easier to send a payment link to the user who made a product purchase in the WooCommerce store."
+msgstr ""
+
+msgid "Are you sure you want to delete the invoice?"
+msgstr ""
+
+msgid "Are you sure you want to cancel the invoice?"
+msgstr ""
